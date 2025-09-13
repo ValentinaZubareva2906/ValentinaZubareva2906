@@ -4,29 +4,11 @@
 ---
 ✨В свободное время увлекаюсь теорией графов. Читаю Харари,Эйлера, Пойа и Палмера. 
 ---
-## 🛠 Skills
-<p float="left">
-  <img src="machine-learning.png" width="100" height="70"/>&nbsp;&nbsp;
-  <img src="deep-learning.jpg" width="100" height="70"/>&nbsp;&nbsp; 
-  <img src="data-analytics.png" width="110" height="70"/>
-</p>
-<p float="left">
-  <img src="python-logo.png" width="60" height="50" />&nbsp;&nbsp;
-  <img src="sql-logo.png" width="70" height="50" />
-  <img src="pandas-logo.png" width="70" height="50"/>
-  <img src="plotly-logo.png" width="70" height="50" />&nbsp;&nbsp;
-  <img src="seaborn-logo.png" width="70" height="50" />&nbsp;&nbsp;
-  <img src="matplotlib-logo.jpg" width="70" height="50" height="40"/>
-  <img src="streamlit-logo.jpg" width="70" height="50" />&nbsp;&nbsp;
-  <img src="powerbi-logo.jpg" width="70" height="50"/>&nbsp;&nbsp;
-  <img src="scikit-learn-logo.png" width="70" height="50" />&nbsp;&nbsp;
-  <img src="pytorch-logo.png" width="70" height="50" />&nbsp;&nbsp; 
-</p>
-<p float="left">
-  <img src="capital-market.png" width="100" height="70"/>&nbsp;&nbsp;
-  <img src="pm-logo.jpg" width="100" height="70"/>&nbsp;&nbsp; 
-  <img src="business-analysis-logo.png" width="100" height="70"/>&nbsp;&nbsp;
-</p>
+### ОБРАЗОВАНИЕ
+|университет|кафедра|специальность|год обучения|средний балл|
+|:----:|:-----|:----:|:-----|:-----|
+|МГТУ имени Н.Э. Баумана| Фундаментальные науки. Физика |бакалавр| 4.7 |
+|МГТУ имени Н.Э. Баумана| Фундаментальные науки. Физика |магистр| диплом с отличием(4.94) |
 
 <!--
 **ValentinaZubareva2906/ValentinaZubareva2906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
