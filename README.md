@@ -13,7 +13,7 @@
 |МГТУ имени Н.Э. Баумана| Фундаментальные науки. Физика |магистр| 2019 - 2021 | диплом с отличием(4.94) |
 
 ### 💬 Как связатьсясо мной 
-<a href="https://t.me/mudriy_pups_100_hp"><img align="left" width="45px" src="resourses/telegram.svg" class="shades-of-purple"/></a> 
+  <img src="python-logo.png" width="60" height="50" />
 <!--
 **ValentinaZubareva2906/ValentinaZubareva2906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
