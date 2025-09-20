@@ -13,7 +13,8 @@
 *   pandas, numpy, matplotlib, seaborn, sklearn
 *   LightGBM, CatBoost, XGBoost
 *   PyTorch, Keras, TensorFlow
-*   BERT, ResNet (и др. модели из зоопарка Keras)
+*   BERT, ResNet (и др. модели Keras)
+*   PyTouch
 *   Spark
 *   Bootstrap, A/B тестирование
 *   Базы данных, SQL
