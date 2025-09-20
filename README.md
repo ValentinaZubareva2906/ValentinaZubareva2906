@@ -28,6 +28,7 @@
 
 ### 📈 Мои репрозитории
 Яндекс.Практикум  
+:----:
 <a href= "https://github.com/ValentinaZubareva2906/yandex_practicum"> <img align="center" width="45px" src="yandex.png" /></a>  
 
 
