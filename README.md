@@ -26,7 +26,7 @@
 ###🛠 Моё резюме
 | на русском | на английском|
 |:----:|:-----:|
-| <img align="left" width="45px" src="analytics_1.png" /></a> | <img align="left" width="45px" src="analytics_2.png" /></a> |
+| <img align="center" width="45px" src="analytics_1.png" /></a> | <img align="center" width="45px" src="analytics_2.png" /></a> |
 
 
 ### 🛠 Технический стек
