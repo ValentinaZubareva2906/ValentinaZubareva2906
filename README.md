@@ -19,7 +19,7 @@
 <img align="left" width="45px" src="nauka.png" /></a>
 ---
 
-## 🛠 Технический стек
+### 🛠 Технический стек
 *   Язык программирования Python
 *   pandas, numpy, matplotlib, seaborn, sklearn
 *   LightGBM, CatBoost, XGBoost
