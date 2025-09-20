@@ -27,9 +27,9 @@
 | <img align="center" width="45px" src="analytics_1.png" /></a> | <img align="center" width="45px" src="analytics_2.png" /></a> |
 
 ### 📈 Мои репрозитории
-Яндекс.Практикум  
-:----:
-<a href= "https://github.com/ValentinaZubareva2906/yandex_practicum"> <img align="center" width="45px" src="yandex.png" /></a>  
+|Яндекс.Практикум|  
+|:----:|
+|<a href= "https://github.com/ValentinaZubareva2906/yandex_practicum"> <img align="center" width="45px" src="yandex.png" /></a> | 
 
 
 
