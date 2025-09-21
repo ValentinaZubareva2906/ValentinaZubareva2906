@@ -39,7 +39,6 @@
 *   LightGBM, CatBoost, XGBoost
 *   PyTorch, Keras, TensorFlow
 *   BERT, ResNet (и др. модели Keras)
-*   PyTouch
 *   Spark
 *   Bootstrap, A/B тестирование
 *   Базы данных, SQL
