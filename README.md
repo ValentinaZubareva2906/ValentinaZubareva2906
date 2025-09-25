@@ -27,9 +27,9 @@
 |<a href= "https://github.com/ValentinaZubareva2906/ValentinaZubareva2906/blob/main/%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_%D1%80%D1%83%D1%81%D1%81.pdf"><img align="center" width="45px" src="analytics_1.png" /></a> |
 
 ### 📈 Мои репрозитории
-|Яндекс.Практикум|  
-|:----:|
-|<a href= "https://github.com/ValentinaZubareva2906/yandex_practicum"> <img align="center" width="45px" src="yandex.png" /></a> | 
+|Яндекс.Практикум| Deep Learning МФТИ |
+|:----:|:----:|
+|<a href= "https://github.com/ValentinaZubareva2906/yandex_practicum"> <img align="center" width="45px" src="yandex.png" /></a> |<a href= "https://github.com/ValentinaZubareva2906/deep_learning_mipt"> <img align="center" width="45px" src="yandex.png" /></a> |  
 
 
 
